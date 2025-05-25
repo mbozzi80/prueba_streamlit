@@ -1,0 +1,8 @@
+[theme]
+base = "dark"  # Cambia a "light" para un tema claro
+primaryColor = "#0077bb"  # Color principal (botones, enlaces, etc.)
+backgroundColor = "#0e1117"  # Color de fondo
+secondaryBackgroundColor = "#262730"  # Color de fondo secundario (sidebar)
+textColor = "#ffffff"  # Color del texto
+font = "sans serif"  # Opciones: "sans serif", "serif", "monospace"
+
